@@ -6,4 +6,4 @@
 - `pip install -r requirements.txt`
 - `python main.py`
 
-## Код написан для канала: https://t.me/Eazercrypto
+## Код написан автором канала: https://t.me/Eazercrypto
