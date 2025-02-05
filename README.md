@@ -7,3 +7,4 @@
 - `python main.py`
 
 ## Код написан автором канала: https://t.me/Eazercrypto
+**Donate EVM:** `0x2bdFFef781bE35aa4E2FFf33Da44429B5865685A` 
