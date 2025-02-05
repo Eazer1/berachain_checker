@@ -17,7 +17,7 @@ def get_random_proxy():
         splited_data = random_line.split(':')
         
         if len(splited_data) != 4:
-            raise ValueError("Некорректный формат прокси в файле! Должно быть log:pass@ip:port")
+            raise ValueError("Некорректный формат прокси в файле! Должно быть ip:port:log:pass")
         
         ip, port, log, password = splited_data
         formatted_proxy = f'{log}:{password}@{ip}:{port}'
